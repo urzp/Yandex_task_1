@@ -1,0 +1,44 @@
+/*Значения размеров высоты текста (так как в задании текст в виде линий):
+- s: 8px;
+- m: 10px;
+- l: 11px;
+- xl: 13px;
+- xxl: 16px.
+Значения межстрочных интервалов:
+- s: 21px;
+- m: 25px;
+- l: 28px;
+- xl: 34px;
+- xxl: 38px.
+*/
+
+
+.theme_size_default .text_size_s{
+	font-size: 8px;
+	line-height: 21px;
+}
+
+.theme_size_default .text_size_m{
+	font-size: 10px;
+	line-height: 25px;
+}
+
+.theme_size_default .text_size_m{
+	font-size: 10px;
+	line-height: 25px;
+}
+
+.theme_size_default .text_size_l{
+	font-size: 11px;
+	line-height: 28px;
+}
+
+.theme_size_default .text_size_xl{
+	font-size: 13px;
+	line-height: 34px;
+}
+
+.theme_size_default .text_size_xxl{
+	font-size: 16px;
+	line-height: 38px;
+}

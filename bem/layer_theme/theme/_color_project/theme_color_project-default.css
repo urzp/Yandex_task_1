@@ -1,0 +1,25 @@
+.theme_color_project-default {
+	background-color: #FFFFFF;
+	border-color: #000000; 
+
+}
+
+.theme_color_project-default .button {
+	color: #ffcc00;
+}
+
+.theme_color_project-default .text_view_primary{
+	color: #000000;
+}
+
+.theme_color_project-default .text_view_secondary{
+	color: rgba(0, 0, 0, 0.6);
+}
+
+.theme_color_project-default .text_view_ghost{
+	color: rgba(0, 0, 0, 0.3);
+}
+
+.theme_color_project-default .text_view_link{
+	color: #0077ff;
+}
