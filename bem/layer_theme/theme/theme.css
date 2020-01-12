@@ -1,0 +1,9 @@
+
+
+.theme media (min-width: 1024px) {
+	flex-direction: column;
+}
+
+.theme {
+	box-sizing: border-box;
+}
