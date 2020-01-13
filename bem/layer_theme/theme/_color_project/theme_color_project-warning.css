@@ -8,9 +8,9 @@
 
 
 .theme_color_project-warning {
-	--text_primary_color: #FFFFFF;
-    --text_secondory-color: rgba(255, 255, 255, 0.6);
-    --text_additional-color: rgba(255, 255, 255, 0.3);
-    --text_link-color: #FFF;
+	--primary_color: #FFFFFF;
+    --secondory-color: rgba(255, 255, 255, 0.6);
+    --ghost-color: rgba(255, 255, 255, 0.3);
+    --link-color: #FFF;
 }
 

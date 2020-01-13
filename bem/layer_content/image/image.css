@@ -1,0 +1,7 @@
+.image {
+    width: 100%;
+    background-color: var(--background-img-color) ;
+    background-image:var(--url_img); 
+    border: 3px solid var(--border-img-color);
+    
+}

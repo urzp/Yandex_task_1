@@ -1,0 +1,4 @@
+.placeholder_view_primary{
+    background-color: var(--background-default-color);
+    color: var(--primary_color);
+}

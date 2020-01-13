@@ -8,9 +8,16 @@
 
 
 .theme_color_project-brand {
-	--text_primary_color: #FFFFFF;
-    --text_secondory-color:rgba(255, 255, 255, 0.6);
-    --text_additional-color: rgba(255, 255, 255, 0.3);
-    --text_link-color: #FFFFFF;
+	--primary_color: #FFFFFF;
+    --secondory-color:rgba(255, 255, 255, 0.6);
+    --ghost-color: rgba(255, 255, 255, 0.3);
+    --link-color: #FFFFFF;
+}
+
+
+.theme_color_project-brand{
+    --background-img-color: #FFFFFF;
+    --border-img-color:#000;
+    --url_img: url(../../../img/image-placeholder-inverse.svg);
 }
 

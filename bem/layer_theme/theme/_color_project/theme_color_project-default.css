@@ -8,12 +8,16 @@
 
 
 .theme_color_project-default {
-	--text_primary_color: #000000;
-    --text_secondory-color: rgba(0, 0, 0, 0.6);
-    --text_additional-color: rgba(0, 0, 0, 0.3);
-    --text_link-color: #0077ff;
+	--primary_color: #000000;
+    --secondory-color: rgba(0, 0, 0, 0.6);
+    --ghost-color: rgba(0, 0, 0, 0.3);
+    --link-color: #0077ff;
 }
 
-
+.theme_color_project-default{
+    --background-img-color: #000000;
+    --border-img-color:#FFF;
+    --url_img: url(../../../img/image-placeholder-primary.svg);
+}
 
 
