@@ -1,0 +1,7 @@
+@media all and (not handheld) {
+	--gap: var(--xl);
+}
+
+@media (handheld) {
+	--gap: var(--S);
+}
