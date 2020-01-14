@@ -176,7 +176,7 @@
 
 @import url("../bem/layer_pattern/form/__item/_vertical-align/form__item_vertical-align_center.css");
 
-@import url("../bem/layer_pattern/form/__label/form__label.css");
+@import url("../bem/layer_pattern/form/__label/_width/form__label_width_default.css");
 
 @import url("../bem/layer_pattern/form/_border/form_border_all.css");
 
