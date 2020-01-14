@@ -1,0 +1,270 @@
+@import url("../bem/layer_content/avatar/avatar.css");
+
+@import url("../bem/layer_content/avatar/_size/avatar_size_m.css");
+
+@import url("../bem/layer_content/brand-logo/brand-logo.css");
+
+@import url("../bem/layer_content/brand-logo/_name/brand-logo_name_blue.css");
+@import url("../bem/layer_content/brand-logo/_name/brand-logo_name_green.css");
+@import url("../bem/layer_content/brand-logo/_name/brand-logo_name_purple.css");
+@import url("../bem/layer_content/brand-logo/_name/brand-logo_name_red.css");
+
+
+@import url("../bem/layer_content/brand-logo/_size/brand-logo_size_m.css");
+@import url("../bem/layer_content/brand-logo/_size/brand-logo_size_s.css");
+@import url("../bem/layer_content/brand-logo/_size/brand-logo_size_xs.css");
+@import url("../bem/layer_content/brand-logo/_size/brand-logo_size_xxs.css");
+
+@import url("../bem/layer_content/button/button.css");
+
+@import url("../bem/layer_content/button/_size/button_size_l.css");
+@import url("../bem/layer_content/button/_size/button_size_m.css");
+@import url("../bem/layer_content/button/_size/button_size_s.css");
+@import url("../bem/layer_content/button/_size/button_size_xl.css");
+@import url("../bem/layer_content/button/_size/button_size_xxl.css");
+
+@import url("../bem/layer_content/button/_width/button_width_full.css");
+
+@import url("../bem/layer_content/image/image.css");
+
+@import url("../bem/layer_content/input/input.css");
+
+@import url("../bem/layer_content/input/_size/input_size_l.css");
+@import url("../bem/layer_content/input/_size/input_size_m.css");
+@import url("../bem/layer_content/input/_size/input_size_s.css");
+@import url("../bem/layer_content/input/_size/input_size_xl.css");
+@import url("../bem/layer_content/input/_size/input_size_xxl.css");
+
+@import url("../bem/layer_content/placeholder/placeholder.css");
+
+@import url("../bem/layer_content/placeholder/_size/placeholder_size_m.css");
+
+@import url("../bem/layer_content/placeholder/_view/placeholder_view_primary.css");
+
+@import url("../bem/layer_content/text/text.css");
+
+
+@import url("../bem/layer_content/text/__word/_width/text__word_width_l.css");
+@import url("../bem/layer_content/text/__word/_width/text__word_width_m.css");
+@import url("../bem/layer_content/text/__word/_width/text__word_width_s.css");
+
+@import url("../bem/layer_content/text/_align/text_align_center.css");
+
+@import url("../bem/layer_content/text/_size/text_size_l.css");
+@import url("../bem/layer_content/text/_size/text_size_m.css");
+@import url("../bem/layer_content/text/_size/text_size_s.css");
+@import url("../bem/layer_content/text/_size/text_size_xl.css");
+@import url("../bem/layer_content/text/_size/text_size_xxl.css");
+
+@import url("../bem/layer_content/text/_type/text_type_h1.css");
+@import url("../bem/layer_content/text/_type/text_type_h2.css");
+@import url("../bem/layer_content/text/_type/text_type_h3.css");
+@import url("../bem/layer_content/text/_type/text_type_p.css");
+
+@import url("../bem/layer_content/text/_view/text_view_ghost.css");
+@import url("../bem/layer_content/text/_view/text_view_link.css");
+@import url("../bem/layer_content/text/_view/text_view_primary.css");
+@import url("../bem/layer_content/text/_view/text_view_secondary.css");
+
+
+@import url("../bem/layer_frame/grid/grid.css");
+
+@import url("../bem/layer_frame/grid/__fraction/grid__fraction.css");
+
+@import url("../bem/layer_frame/grid/__fraction/_m-col/grid__fraction_m-col_2.css");
+@import url("../bem/layer_frame/grid/__fraction/_m-col/grid__fraction_m-col_3.css");
+@import url("../bem/layer_frame/grid/__fraction/_m-col/grid__fraction_m-col_4.css");
+@import url("../bem/layer_frame/grid/__fraction/_m-col/grid__fraction_m-col_5.css");
+@import url("../bem/layer_frame/grid/__fraction/_m-col/grid__fraction_m-col_8.css");
+
+@import url("../bem/layer_frame/grid/_col-gap/gird_col-gap_full.css");
+@import url("../bem/layer_frame/grid/_col-gap/gird_col-gap_half.css");
+@import url("../bem/layer_frame/grid/_col-gap/gird_col-gap_two-thirds.css");
+
+@import url("../bem/layer_frame/grid/_m-colums/grid_m-colums_10.css");
+@import url("../bem/layer_frame/grid/_m-colums/grid_m-colums_12.css");
+
+@import url("../bem/layer_frame/grid/_row-gap/gird_row-gap_full.css");
+@import url("../bem/layer_frame/grid/_row-gap/gird_row-gap_half.css");
+
+@import url("../bem/layer_frame/layout/layout.css");
+
+@import url("../bem/layer_frame/layout/__container/layout__container.css");
+
+@import url("../bem/layer_frame/layout/__container/_indent-b/layout__container_indent-b_xxl.css");
+@import url("../bem/layer_frame/layout/__container/_indent-b/layout__container_indent-b_xxxxl.css");
+
+@import url("../bem/layer_frame/layout/__container/_size/layout__container_size_l.css");
+@import url("../bem/layer_frame/layout/__container/_size/layout__container_size_s.css");
+
+@import url("../bem/layer_frame/layout/__container/_space-v/layout__container_space-v_xxxxl.css");
+@import url("../bem/layer_frame/layout/__container/_space-v/layout__container_space-v_xxxxxl.css");
+
+
+@import url("../bem/layer_pattern/card/card.css");
+
+@import url("../bem/layer_pattern/card/__content/card__content.css");
+
+@import url("../bem/layer_pattern/card/__content/_distribute/card__content_distribute_center.css");
+
+@import url("../bem/layer_pattern/card/__content/_space-a/card__content_space-a_l.css");
+@import url("../bem/layer_pattern/card/__content/_space-a/card__content_space-a_m.css");
+@import url("../bem/layer_pattern/card/__content/_space-a/card__content_space-a_xl.css");
+@import url("../bem/layer_pattern/card/__content/_space-a/card__content_space-a_xxl.css");
+@import url("../bem/layer_pattern/card/__content/_space-a/card__content_space-a_xxxl.css");
+
+@import url("../bem/layer_pattern/card/__content/_vertical-align/card__content_vertical-align_center.css");
+
+@import url("../bem/layer_pattern/card/__footer/card__footer.css");
+
+@import url("../bem/layer_pattern/card/__footer/_distribute/card__footer_distribute_between.css");
+@import url("../bem/layer_pattern/card/__footer/_distribute/card__footer_distribute_center.css");
+@import url("../bem/layer_pattern/card/__footer/_distribute/card__footer_distribute_right.css");
+
+@import url("../bem/layer_pattern/card/__footer/_space-a/card__footer_space-a_l.css");
+@import url("../bem/layer_pattern/card/__footer/_space-a/card__footer_space-a_m.css");
+@import url("../bem/layer_pattern/card/__footer/_space-a/card__footer_space-a_xl.css");
+@import url("../bem/layer_pattern/card/__footer/_space-a/card__footer_space-a_xxl.css");
+
+@import url("../bem/layer_pattern/card/__footer/_vertical-align/card__footer_vertical-align_.css");
+@import url("../bem/layer_pattern/card/__footer/_vertical-align/card__footer_vertical-align_center.css");
+@import url("../bem/layer_pattern/card/__footer/_vertical-align/card__footer_vertical-align_top_bottom.css");
+
+@import url("../bem/layer_pattern/card/_border/card_border_all.css");
+
+@import url("../bem/layer_pattern/card/_view/card_view_defolt.css");
+
+@import url("../bem/layer_pattern/form/form.css");
+
+@import url("../bem/layer_pattern/form/__control/form_control.css");
+
+@import url("../bem/layer_pattern/form/__item/form__item.css");
+
+@import url("../bem/layer_pattern/form/__item/_border/form__item_border_bottom.css");
+
+@import url("../bem/layer_pattern/form/__item/_distribute/form__item_distribute_between.css");
+
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_l.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_m.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_s.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_xl.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_xxl.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_xxs.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_xxxl.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_xxxs.css");
+@import url("../bem/layer_pattern/form/__item/_indent-b/form__item_indent-b_xxxxl.css");
+
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_l.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_m.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_s.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_xl.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_xxl.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_xxs.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_xxxl.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_xxxs.css");
+@import url("../bem/layer_pattern/form/__item/_space-h/form__item_space-h_xxxxl.css");
+
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item__space-v-h_l.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_m.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_s.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_xl.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_xxl.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_xxs.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_xxxl.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_xxxs.css");
+@import url("../bem/layer_pattern/form/__item/_space-v/form__item_space-v_xxxxl.css");
+
+@import url("../bem/layer_pattern/form/__item/_vertical-align/form__item_vertical-align_center.css");
+
+@import url("../bem/layer_pattern/form/__label/form__label.css");
+
+@import url("../bem/layer_pattern/form/_border/form_border_all.css");
+
+@import url("../bem/layer_pattern/form/_view/form_view_default.css");
+
+@import url("../bem/layer_pattern/icon-plus/icon-plus.css");
+
+@import url("../bem/layer_pattern/icon-plus/__block/icon-plus__block.css");
+
+@import url("../bem/layer_pattern/icon-plus/__icon/icon-plus__icon.css");
+
+@import url("../bem/layer_pattern/icon-plus/__icon/_indent-l/icon-plus__icon_indent-l_l.css");
+
+@import url("../bem/layer_pattern/icon-plus/__icon/_indent-r/icon-plus__icon_indent-r_m.css");
+@import url("../bem/layer_pattern/icon-plus/__icon/_indent-r/icon-plus__icon_indent-r_s.css");
+
+@import url("../bem/layer_pattern/icon-plus/_vertical-align/icon-plus__item_vertical-align_center.css");
+
+@import url("../bem/layer_pattern/informer/informer.css");
+
+@import url("../bem/layer_pattern/informer/__action/informer__action.css");
+
+@import url("../bem/layer_pattern/informer/__action/_distribute/informer__action_distribute_between.css");
+@import url("../bem/layer_pattern/informer/__action/_distribute/informer__action_distribute_center.css");
+@import url("../bem/layer_pattern/informer/__action/_distribute/informer__action_distribute_default.css");
+
+@import url("../bem/layer_pattern/informer/__action/_space-a/informer__action_space-a_xl.css");
+@import url("../bem/layer_pattern/informer/__action/_space-a/informer__action_space-a_xxl.css");
+
+@import url("../bem/layer_pattern/informer/__content/informer__content.css");
+
+@import url("../bem/layer_pattern/informer/__content/_distribute/informer__content_distribute_between.css");
+@import url("../bem/layer_pattern/informer/__content/_distribute/informer__content_distribute_center.css");
+@import url("../bem/layer_pattern/informer/__content/_distribute/informer__content_distribute_default.css");
+
+@import url("../bem/layer_pattern/informer/__content/_space-a/informer__content_space-a_xl.css");
+@import url("../bem/layer_pattern/informer/__content/_space-a/informer__content_space-a_xxl.css");
+
+@import url("../bem/layer_pattern/informer/_border/informer_border_all.css");
+
+@import url("../bem/layer_pattern/informer/_view/informer_view_default.css");
+
+@import url("../bem/layer_pattern/list/list.css");
+
+@import url("../bem/layer_pattern/list/__item/list__item.css");
+
+@import url("../bem/layer_pattern/list/__item/_border/list__item_border_bottom.css");
+@import url("../bem/layer_pattern/list/__item/_border/list__item_border_top.css");
+
+@import url("../bem/layer_pattern/list/__item/_distribute/list__item_distribute_between.css");
+
+@import url("../bem/layer_pattern/list/__item/_indent-b/list__item_indent-b_l.css");
+@import url("../bem/layer_pattern/list/__item/_indent-b/list__item_indent-b_m.css");
+@import url("../bem/layer_pattern/list/__item/_indent-b/list__item_indent-b_s.css");
+@import url("../bem/layer_pattern/list/__item/_indent-b/list__item_indent-b_xl.css");
+
+@import url("../bem/layer_pattern/list/__item/_indent-t/list__item_indent-t_m.css");
+
+@import url("../bem/layer_pattern/list/__item/_space-a/list__item_space-a_m.css");
+
+@import url("../bem/layer_pattern/list/__item/_space-b/list__item_space-b_s.css");
+
+@import url("../bem/layer_pattern/list/__item/_vertical-align/list__item_vertical-align_center.css");
+
+@import url("../bem/layer_pattern/list/_border/list_border_all.css");
+
+@import url("../bem/layer_pattern/list/_view/list_view_default.css");
+
+
+@import url("../bem/layer_pattern/section/_indent-b/section_indent-b_xxl.css");
+@import url("../bem/layer_pattern/section/_indent-b/section_indent-b_xxxxl.css");
+
+@import url("../bem/layer_pattern/section/_space-v/section_space-v_xxl.css");
+@import url("../bem/layer_pattern/section/_space-v/section_space-v_xxxxl.css");
+
+
+@import url("../bem/layer_theme/theme/theme.css");
+
+@import url("../bem/layer_theme/theme/_color/theme_color_project-brand.css");
+@import url("../bem/layer_theme/theme/_color/theme_color_project-default.css");
+@import url("../bem/layer_theme/theme/_color/theme_color_project-inverse.css");
+@import url("../bem/layer_theme/theme/_color/theme_color_project-warning.css");
+
+@import url("../bem/layer_theme/theme/_gap/theme_gap_small.css");
+
+@import url("../bem/layer_theme/theme/_size/theme_size_default.css");
+
+@import url("../bem/layer_theme/theme/_space/theme_space_default.css");
+
+
+
