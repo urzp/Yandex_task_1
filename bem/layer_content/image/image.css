@@ -1,7 +1,10 @@
 .image {
     width: 100%;
-    background-color: var(--background-img-color) ;
+    height: 160px;
+    background-color: var(--background-img-color);
     background-image:var(--url_img); 
+    background-repeat: no-repeat;
+    background-position: center;
     border: 3px solid var(--border-img-color);
     
 }

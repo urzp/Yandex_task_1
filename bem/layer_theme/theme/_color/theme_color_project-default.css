@@ -2,6 +2,9 @@
 	--background-default-color: #FFFFFF;
     --background-accent-color: #ffcc00;
 	--background-border-color: #000000; 
+    
+    background-color: var(--background-default-color);
+    border-color: var(--background-border-color);
 
 }
 
@@ -15,9 +18,9 @@
 }
 
 .theme_color_project-default{
-    --background-img-color: #000000;
-    --border-img-color:#FFF;
-    --url_img: url(../../../img/image-placeholder-primary.svg);
+    --background-img-color: #000;
+    --border-img-color:#fff;
+    --url_img: url(../../../img/image-placeholder-inverse.svg);
 }
 
 

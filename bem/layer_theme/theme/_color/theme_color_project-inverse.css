@@ -2,6 +2,9 @@
 	--background-default-color: #000000;
     --background-accent-color: #FFFFFF;
 	--background-border-color: #FFFFFF; 
+    
+    background-color: var(--background-default-color);
+    border-color: var(--background-border-color);
 
 }
 
@@ -17,6 +20,6 @@
 .theme_color_project-inverse{
     --background-img-color: #FFFFFF;
     --border-img-color:#000;
-    --url_img: url(../../../img/image-placeholder-inverse.svg);
+    --url_img: url(../../../img/image-placeholder-primary.svg);
 }
 

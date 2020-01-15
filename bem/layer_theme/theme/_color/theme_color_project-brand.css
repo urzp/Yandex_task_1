@@ -2,6 +2,9 @@
 	--background-default-color: #0077ff;
     --background-accent-color: #FFFFFF;
 	--background-border-color: #FFFFFF; 
+    
+    background-color: var(--background-default-color);
+    border-color: var(--background-border-color);
 
 }
 
