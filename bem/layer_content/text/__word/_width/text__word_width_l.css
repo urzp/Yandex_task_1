@@ -1,5 +1,5 @@
 .text__word_width_l{
     width: var(--word-width-l);
     height: var(--word-hight);
-    background: black;
+    background: var(--word-color);
 }
