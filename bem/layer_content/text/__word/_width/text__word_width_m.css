@@ -1,3 +1,5 @@
 .text__word_width_m{
-     width: var(--word-width-m);
+    width: var(--word-width-m);
+    height: var(--word-hight);
+    background: var(--word-color);
 }
