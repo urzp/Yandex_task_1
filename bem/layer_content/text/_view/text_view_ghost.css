@@ -1,4 +1,4 @@
 .text_view_ghost{
-    color: var(--ghost_color);
-    --word-color:var(--ghost_color);
+    color: var(--ghost-color);
+    --word-color:var(--ghost-color);
 }
