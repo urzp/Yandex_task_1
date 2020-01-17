@@ -1,3 +1,6 @@
+
+
+
 .onoffswitch{
     height: 32px;
     width: 97px;
@@ -7,11 +10,10 @@
     height: 32px;
    
     outline: none;
-    opacity: 0.7;
     -webkit-transition: .2s;
     transition: opacity .2s;
     
-    border-width: 2px;
+    border: 2px solid var(--background-border-color);
     
 }
 
@@ -25,3 +27,4 @@
     background: var(--background-border-color);
     cursor: pointer;
 }
+

@@ -279,4 +279,10 @@
 
 @import url("../bem/bloks/footer/footer/__content/footer__content.css");
 
+@import url("../bem/bloks/header/_content/header_content.css");
+
+@import url("../bem/bloks/header/_logo/header_logo.css");
+
+@import url("../bem/bloks/onoffswitch/onoffswitch.css");
+
 
