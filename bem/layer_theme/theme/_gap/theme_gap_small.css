@@ -1,7 +1,23 @@
-@media all and (not handheld) {
-	--gap: var(--xl);
-}
 
-@media (handheld) {
-	--gap: var(--S);
-}
+
+    .theme_gap_small {
+           --gap: var(--xl);
+       }
+    
+
+   @media only screen and (max-width: 600px) {
+       .theme_gap_small {
+           --gap: var(--xl);
+       }
+        
+    }
+    
+    @media (handheld) {
+        .theme_gap_small {
+            --gap: var(--s);
+        }
+    }
+
+
+
+    
