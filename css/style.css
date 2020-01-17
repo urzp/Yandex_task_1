@@ -132,7 +132,7 @@
 
 @import url("../bem/layer_pattern/card/_border/card_border_all.css");
 
-@import url("../bem/layer_pattern/card/_view/card_view_defolt.css");
+@import url("../bem/layer_pattern/card/_view/card_view_default.css");
 
 @import url("../bem/layer_pattern/form/form.css");
 
@@ -268,5 +268,11 @@
 
 @import url("../bem/layer_pattern/icon-plus/_distribute/icon-plus_distribute_right.css");
 
+@import url("../bem/bloks/event/__preview/event__preview.css");
+@import url("../bem/bloks/event/__speaker/event__speaker.css"); 
 
+@import url("../bem/bloks/event/__content/event__content.css");
 
+@import url("../bem/layer_content/text/_space-a/text_space-a_s.css");
+
+@import url("../bem/bloks/event/event.css");

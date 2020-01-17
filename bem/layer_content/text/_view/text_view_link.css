@@ -1,4 +1,4 @@
 .text_view_link{
-    color: var(--link_color);
-    --word-color:var(--link_color);
+    color: var(--link-color);
+    --word-color:var(--link-color);
 }
