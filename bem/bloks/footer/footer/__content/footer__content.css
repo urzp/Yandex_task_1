@@ -1,5 +1,6 @@
 .footer__content{
     display: flex;
     justify-content: space-between;
+    
     padding: var(--xxxl) var(--gap)  ;
 }
